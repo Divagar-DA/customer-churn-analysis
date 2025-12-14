@@ -1,4 +1,4 @@
-# Customer ChurnAnalysis (SQL)
+# Customer Churn Analysis (SQL)
 
 ## Overview
 SQL project analyzing customer usage data to identify churn risk and engagement levels using real-world business logic.
